@@ -7,9 +7,6 @@ tags: [blog, github, jekyll]
 ---
 {% include JB/setup %}
 
-
-#随笔：技术流可以这样写博客#
-
 在知道Git之后，对它了解越多就越觉得它功能强大。
 
 今天又发现了一件有趣的玩具，就是用GitHub+Jekyll来搭建博客站点，这绝对是我这种技术宅男的最爱，my type :)

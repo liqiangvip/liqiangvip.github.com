@@ -7,8 +7,6 @@ tags: [git, bitbucket]
 ---
 {% include JB/setup %}
 
-#Git及Bitbucket服务简介#
-
 你是否遇到过辛苦编写的代码突然消失了，或者是代码来回改了好几个版本，又想用以前某个版本。。。这个时候怎么办？
 
 下面就推出今天的主角**Git**
