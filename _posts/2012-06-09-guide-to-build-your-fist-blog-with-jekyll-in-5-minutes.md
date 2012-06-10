@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Guide to build your fist Blog with Jekyll in 5 minutes"
+title: "教你5分钟快速搭建GitHub上的博客"
 description: ""
 category: 
 tags: [blog, jekyll, guide]
