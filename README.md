@@ -1,5 +1,5 @@
-#¼ò½é
-ÕâÊÇ http://liqiangvip.github.com µÄÔ´Âë£¬ÓÉ[Jekyll](https://github.com/mojombo/jekyll)ºÍ[GitHub Pages](http://pages.github.com/)Çı¶¯¡£
+##ç®€ä»‹
+è¿™æ˜¯ http://liqiangvip.github.com çš„æºç ï¼Œç”±[Jekyll](https://github.com/mojombo/jekyll)å’Œ[GitHub Pages](http://pages.github.com/)é©±åŠ¨ã€‚
 
-#°æÈ¨
-_posts/ÎÄ¼ş¼ĞÄÚµÄÎÄ¼ş²ÉÓÃ [ÊğÃû-·ÇÉÌÒµĞÔÊ¹ÓÃ-ÏàÍ¬·½Ê½¹²Ïí 3.0 Unported Ğí¿ÉĞ­Òé](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)½øĞĞĞí¿É¡£ÆäËû²¿·ÖÇëËæÒâÊ¹ÓÃ¡£
+##ç‰ˆæƒ
+_posts/æ–‡ä»¶å¤¹å†…çš„æ–‡ä»¶é‡‡ç”¨ [ç½²å-éå•†ä¸šæ€§ä½¿ç”¨-ç›¸åŒæ–¹å¼å…±äº« 3.0 Unported è®¸å¯åè®®](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)è¿›è¡Œè®¸å¯ã€‚å…¶ä»–éƒ¨åˆ†è¯·éšæ„ä½¿ç”¨ã€‚
