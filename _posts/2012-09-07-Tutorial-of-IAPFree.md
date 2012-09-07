@@ -51,9 +51,12 @@ The Author has never asked for any donations. He will **NOT** accept any donatio
 
 
 ## Change Log
+- V3.0.0 (released 2012-09-7)  
+-Added functions for Fake UDID and Fake MAC address  
+-Added English language support
 - v2.1.0 (released 2012-06-11)  
-fixing some structure issue  
-adding the noticification for core plugin installation 
+-Fixed some structure issue  
+-Added notification for core plugin installation 
 - v2.0 (released 2012-05-31)  
 - v1.0.3f (released 2012-02-28)  
 - v1.0.2 (released 2012-02-20)
