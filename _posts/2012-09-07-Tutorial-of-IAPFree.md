@@ -7,7 +7,7 @@ tags: [iOS, Jailbreak, IAP, IAPFree]
 ---
 {% include JB/setup %}
 
-## Author
+## About Author of IAPFree
 [Crazydoreamon](http://www.crazydoraemon.com/ "Home Page in Chinese"), Team Member of [BHGBox](www.bhgbox.org) in China.
 
 ## Brief Introduction  
@@ -22,7 +22,7 @@ Please read the tutorial carefully for the new users of IAPFree.
 
 **Note:** Using any other unauthorized sources put you at risk of having problems for which we are not responsible.
 
-## How to install IAPFree
+## How to Install IAPFree
 1. Add the Cydia Source  
 2. Search "IAPFree" and install  
 3. IAPFree icon apprears on your desktop if install successfully  
@@ -30,7 +30,7 @@ Please read the tutorial carefully for the new users of IAPFree.
 **Note:** Users could update smoothly from v2.x to v3.0 with Core plugin installed again. For users with v1.x, please remove it first and install the latest version.
 
 ## Usage of IAPFree v3.0.0  
-### - Free for in-app purchase
+### - Free for In-App Purchase
 IAPFree basically works on a *Core plugin*, which makes your in-app purchase FREE for most of Apps. So it is very important for you to install the Core plugin first. IAPFree also provides some special plugins for some games in which the Core plugin failed to work.
 
 All plugins are listed in the “More” view by clicking the Plugins button at the bottom of IAPFree. They are labeled as *Installable*. After you install the Core plugin and some other plugins, they are labeled as *Installed*.
@@ -53,7 +53,7 @@ The Author has never asked for any donations. He will **NOT** accept any donatio
 ## Change Log
 - v3.0.1 (released 2012-09-07)  
 -Fixed problem of missing plugins after installed
-- v3.0.0 (released 2012-09-7)  
+- v3.0.0 (released 2012-09-07)  
 -Added functions for Fake UDID and Fake MAC address  
 -Added English language support
 - v2.1.0 (released 2012-06-11)  
