@@ -8,11 +8,12 @@ tags: [iOS, Jailbreak, IAP, IAPFree]
 {% include JB/setup %}
 
 ## About Author of IAPFree
-[Crazydoreamon](http://www.crazydoraemon.com/ "Home Page in Chinese"), Team Member of [BHGBox](www.bhgbox.org) in China.
+[Crazydoreamon](http://www.crazydoraemon.com/ "Home Page in Chinese"), Team Member of [BHGBox](www.bhgbox.org) in China.  
+You may find author in [Home Page](http://www.crazydoraemon.com/), [Sina Weibo](http://www.weibo.com/iapfree) and [Tencent Weibo](http://t.qq.com/CrazyDoraemon).
+
 
 ## Brief Introduction  
 IAPFree is an awesome tweak to make in-app purchases for free.  
-More detail is on author's [Home Page](http://www.crazydoraemon.com/)  
 Please read the tutorial carefully for the new users of IAPFree.
 
 
