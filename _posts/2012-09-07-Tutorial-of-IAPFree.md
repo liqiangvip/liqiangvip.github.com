@@ -3,7 +3,7 @@ layout: post
 title: "IAPFree Tutorial by JohnnyVIP"
 description: ""
 category: iOS
-tags: [iOS, Jailbreak, IAP]
+tags: [iOS, Jailbreak, IAP, IAPFree]
 ---
 {% include JB/setup %}
 
