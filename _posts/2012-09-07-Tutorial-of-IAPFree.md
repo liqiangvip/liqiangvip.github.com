@@ -51,7 +51,9 @@ The Author has never asked for any donations. He will **NOT** accept any donatio
 
 
 ## Change Log
-- V3.0.0 (released 2012-09-7)  
+- v3.0.1 (released 2012-09-07)  
+-Fixed problem of missing plugins after installed
+- v3.0.0 (released 2012-09-7)  
 -Added functions for Fake UDID and Fake MAC address  
 -Added English language support
 - v2.1.0 (released 2012-06-11)  
